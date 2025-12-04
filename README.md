@@ -1,5 +1,5 @@
 # 💫 About Me:
-HTL-Leonding
+HTL-Leonding Student
 
 
 ## 🌐 Socials:
