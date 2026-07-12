@@ -1,13 +1,76 @@
-# 💫 About Me:
-HTL-Leonding Student
+<!-- ====================  HEADER : Animated capsule + typing SVG  ==================== -->
+
+# FelixZannantoni — Developer
+
+<a href="https://github.com/FelixZannantoni">
+  <img width="100%" alt="FelixZannantoni GitHub profile banner - developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,5,20,30&height=260&section=header&text=FelixZannantoni&fontSize=90&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Developer&descSize=22&descAlignY=62"/>
+</a>
+
+<p align="center">
+  <a href="https://github.com/FelixZannantoni">
+    <img alt="FelixZannantoni typing intro - AI and developer productivity tools, Copilot token reduction, automation, open source, privacy-first" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=600&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hi%2C+I'm+Felix+%F0%9F%91%8B;I+am+a+Software+Developer"/>
+  </a>
+</p>
+
+<!-- ====================  FEATURED PROJECTS — 3D CARDS  ==================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" align="center">
+  <a href="https://github.com/2425-2AHIF-WMC/chess-multiplayer">
+    <img width="100%" src="https://opengraph.githubassets.com/1/2425-2AHIF-WMC/chess-multiplayer" alt="chess-multiplayer"/>
+  </a>
+  <h3> <a href="https://github.com/2425-2AHIF-WMC/chess-multiplayer">chess-multiplayer</a></h3>
+  <p>Ein Schach-Multiplayer-Spiel mit Socket.IO und eigener Oberfläche.</p>
+  <p>
+  <a href="https://github.com/2425-2AHIF-WMC/chess-multiplayer/stargazers">
+    <img src="https://img.shields.io/github/stars/2425-2AHIF-WMC/chess-multiplayer?style=flat-square&color=FFD700&labelColor=0d1117"/>
+    </a>
+  </p>
+</td>
+
+<td width="50%" align="center">
+  <a href="https://github.com/2526-3ahif-syp-wmc/OnlineCasino">
+    <img width="100%" src="https://opengraph.githubassets.com/1/2526-3ahif-syp-wmc/OnlineCasino" alt="OnlineCasino"/>
+  </a>
+  <h3><a href="https://github.com/2526-3ahif-syp-wmc/OnlineCasino">OnlineCasino</a></h3>
+  <p>A friendly casino game/web-app where you can gamble with your friends.</p>
+  <p>
+    <a href="https://github.com/2526-3ahif-syp-wmc/OnlineCasino/stargazers">
+    <img src="https://img.shields.io/github/stars/2526-3ahif-syp-wmc/OnlineCasino?style=flat-square&color=FFD700&labelColor=0d1117"/>
+    </a>
+  </p>
+<td>
+
+<tr>
+
+</table>
+
+<!-- ====================  TECH STACK — skillicons.dev (3D)  ==================== -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,cs,py,html,css,bootstrap,angular,linux,bash,raspberrypi,git,github,vscodium,idea,docker,kubernetes&theme=dark" />
+  </a>
+</p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/felixz_55) 
+<!-- ====================  STATS — 3D CARDS  ==================== -->
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=FelixZannantoni&theme=dark&hide_border=false)<br/>
+<h2 align="center">📈 GitHub Stats</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FelixZannantoni&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FelixZannantoni">
+    <img alt="FelixZannantoni GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FelixZannantoni&bg_color=0D1117&color=00F7FF&line=FFD700&point=ffffff&area=true&hide_border=true&custom_title=FelixZannantoni%20Contribution%20Graph"/>
+  </a>
+</p>
