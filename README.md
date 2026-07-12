@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/FelixZannantoni">
-    <img alt="FelixZannantoni typing intro - AI and developer productivity tools, Copilot token reduction, automation, open source, privacy-first" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=600&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hi%2C+I'm+Felix+%F0%9F%91%8B;I+am+a+Software+Developer"/>
+    <img alt="FelixZannantoni typing introt" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=600&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=110&lines=Hi%2C+I'm+Felix+%F0%9F%91%8B;I'm+a+Software+Developer"/>
   </a>
 </p>
 
