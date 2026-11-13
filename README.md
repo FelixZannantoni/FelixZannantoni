@@ -21,14 +21,14 @@
 <tr>
 
 <td width="50%" align="center">
-  <a href="https://github.com/2425-2AHIF-WMC/chess-multiplayer">
-    <img width="100%" src="https://opengraph.githubassets.com/1/2425-2AHIF-WMC/chess-multiplayer" alt="chess-multiplayer"/>
+  <a href="https://github.com/26-27-28-AHIF-SYP/airpx-PhotoCloud">
+    <img width="100%" src="https://opengraph.githubassets.com/1/26-27-28-AHIF-SYP/airpx-PhotoCloud" alt="airpx-PhotoCloud"/>
   </a>
-  <h3> <a href="https://github.com/2425-2AHIF-WMC/chess-multiplayer">chess-multiplayer</a></h3>
+  <h3> <a href="https://github.com/26-27-28-AHIF-SYP/airpx-PhotoCloud">chess-multiplayer</a></h3>
   <p>Ein Schach-Multiplayer-Spiel mit Socket.IO und eigener Oberfläche.</p>
   <p>
-  <a href="https://github.com/2425-2AHIF-WMC/chess-multiplayer/stargazers">
-    <img src="https://img.shields.io/github/stars/2425-2AHIF-WMC/chess-multiplayer?style=flat-square&color=FFD700&labelColor=0d1117"/>
+  <a href="https://github.com/26-27-28-AHIF-SYP/airpx-PhotoCloud/stargazers">
+    <img src="https://img.shields.io/github/stars/26-27-28-AHIF-SYP/airpx-PhotoCloud?style=flat-square&color=FFD700&labelColor=0d1117"/>
     </a>
   </p>
 </td>
