@@ -24,8 +24,8 @@
   <a href="https://github.com/26-27-28-AHIF-SYP/airpx-PhotoCloud">
     <img width="100%" src="https://opengraph.githubassets.com/1/26-27-28-AHIF-SYP/airpx-PhotoCloud" alt="airpx-PhotoCloud"/>
   </a>
-  <h3> <a href="https://github.com/26-27-28-AHIF-SYP/airpx-PhotoCloud">chess-multiplayer</a></h3>
-  <p>Ein Schach-Multiplayer-Spiel mit Socket.IO und eigener Oberfläche.</p>
+  <h3> <a href="https://github.com/26-27-28-AHIF-SYP/airpx-PhotoCloud">airpx-PhotoCloud</a></h3>
+  <p>A Picture Cloud where you can save all your pictures</p>
   <p>
   <a href="https://github.com/26-27-28-AHIF-SYP/airpx-PhotoCloud/stargazers">
     <img src="https://img.shields.io/github/stars/26-27-28-AHIF-SYP/airpx-PhotoCloud?style=flat-square&color=FFD700&labelColor=0d1117"/>
